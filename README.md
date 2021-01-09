@@ -19,14 +19,14 @@ How to install
   9. brew install applesimutils 
   
   To updates detox cli globali
-   npm detox -g detox-cli
+    npm detox -g detox-cli
   Install to react native
-   npm install -g react-native-cli
+    npm install -g react-native-cli
    
    Initiate the react native project:
     react-native init detoxprojectname
     
-     • cd "~/workspace/detoxproject" && npx react-native run-ios
+    • cd "~/workspace/detoxproject" && npx react-native run-ios
     - or -
     • Open detoxproject/ios/detoxproject.xcworkspace in Xcode or run "xed -b ios"
     • Hit the Run button
